@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_border_01.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_border_02.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_border_siucap.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_corner_10dp.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_cricletool.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/drawable/bg_top_16dp.xml" value="0.168" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/layout/dialog_show.xml" value="0.2911500641299701" />
+        <entry key="..\:/cover_CODE/code_dev/Moblie_leanring_dev_2022/excer_Lap/MyTnh/app/src/main/res/layout/m002_swap_text.xml" value="0.2911500641299701" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
